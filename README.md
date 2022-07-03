@@ -56,10 +56,9 @@
 1. Balanced Accuracy: 0.925427358175101
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk = 0.91/0.94
-
-## Summary:
 ---
+## Summary:
 * Resources:
- * Python 
- * Anaconda 
- * Jupyter Notebooks
+   * Python 
+   * Anaconda 
+   * Jupyter Notebooks
