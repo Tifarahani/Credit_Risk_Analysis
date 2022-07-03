@@ -40,9 +40,10 @@
 3. Recall: High/Low risk = 0.78/0.58
 
 ### Balanced Random Forest Classifier
-![Pic 5](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/List_by_Priority_D3.png) 
+![Pic 5](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Balance%20accuracy.png) 
 ![Pic 5](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Confusion_Matrix_D3.pngsification_ReportD3.png) 
-![Pic 5](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Classification_ReportD3.png)     
+![Pic 5](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Classification_ReportD3.png)    
+![Pic 5](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/List_by_Priority_D3.png)
 1. Balanced Accuracy: 0.7877672625306695
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk = .67/.91
