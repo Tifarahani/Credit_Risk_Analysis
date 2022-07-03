@@ -19,7 +19,6 @@
 ![Pic 2](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/SMOT1.png) 
 ![Pic 2](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/SMOT.png) 
 ![Pic 2](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Smot_Accuracy_score.png)
-![Pic 2](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/SMOT3.png)
 1. Balanced Accuracy: 0.6792948456015411
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk = 0.70/.66
