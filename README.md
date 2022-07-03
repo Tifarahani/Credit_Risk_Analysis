@@ -58,3 +58,8 @@
 3. Recall: High/Low risk = 0.91/0.94
 
 ## Summary:
+---
+* Resources:
+ * Python 
+ * Anaconda 
+ * Jupyter Notebooks
