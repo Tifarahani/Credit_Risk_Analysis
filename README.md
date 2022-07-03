@@ -1,5 +1,7 @@
 # Credit_Risk_Analysis
-#### Overview of the analysis
+#### Overview of the analysis:
+The purpose of this analysis is to understand how to utilize Machine Learning statistical algorithms to make predictions based on data patterns provided.
+Through each of these methods, we split the data into training and testing datasets, and compiled accuracy scores, confusion matries, and classification reports as my results.We use Machine Learning to resample the dataset using Python libraries: scikit-learn and imbalanced-learn evaluate the results and provide a comparison for our analysis.
 
 ---
 #### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk 
@@ -56,6 +58,14 @@
 3. Recall: High/Low risk = 0.91/0.94
 ---
 #### Summary:
+When working with balanced accuracy, the highest compared accuracy between 0 and 1 and is closest to 1 is the best machine learning model.
+This analysis is trying to find the best model that can detect if a loan is high risk or not. Becasue of that, we need to find a model that lets the least amount of high risk loans pass through undetected. That correlating statistic for this is the recall rate for high risk. Looking through the different models, the ones that scored the highest were:
+- Naive Random Oversampling (68%)
+- SMOTEENN Sampling (76%)
+- Easy Ensemble Classifying (91%)
+
+---
+
 * Resources:
    * Python 
    * Anaconda 
