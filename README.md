@@ -24,10 +24,12 @@
 3. Recall: High/Low risk = 0.70/.66
 
 ### Undersampling
-![Pic 3](.PNG)     
-1. Balanced Accuracy: 0.6303296388959394
+![Pic 3](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Undersampling1.png)
+![Pic 3](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Undersampling2.png) 
+![Pic 3](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Undersampling3.png) 
+1. Balanced Accuracy: 0.6792948456015411
 2. Precision:  The precision is low for High-risk loans and is high for Low-risk loans.
-3. Recall: High/Low risk = .63/.40
+3. Recall: High/Low risk = 0.43/0.62
 
 ### Combination Under-Over Sampling
 ![Pic 4](.PNG)     
