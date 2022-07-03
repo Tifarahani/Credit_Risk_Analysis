@@ -10,6 +10,7 @@
 ### Naive Random Oversampling
 ![Pic 1](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Accuracy_Score.png)    
 ![Pic 1](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Confusion_Matrix.png)
+![Pic 1](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Imbalanced_Classification_Report.png)
 1. Balanced Accuracy: 0.6612700484668286
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk = .66/.67
