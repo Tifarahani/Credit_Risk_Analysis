@@ -40,7 +40,7 @@ Through each of these methods, we split the data into training and testing datas
 ---
 #### Balanced Random Forest Classifier
 ![Pic 13](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Balance%20accuracy.png) 
-![Pic 14](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Confusion_Matrix_D3.pngsification_ReportD3.png) 
+![Pic 14](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Confusion_Matrix_D3.png) 
 ![Pic 15](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Classification_ReportD3.png)    
 ![Pic 16](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/List_by_Priority_D3.png)
 1. Balanced Accuracy: 0.7877672625306695
