@@ -29,7 +29,7 @@
 ![Pic 3](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Undersampling3.png) 
 1. Balanced Accuracy: 0.6792948456015411
 2. Precision:  The precision is low for High-risk loans and is high for Low-risk loans.
-3. Recall: High/Low risk = 0.43/0.62
+3. Recall: High/Low risk = 0.62/0.43
 #### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk 
 ### Combination Under-Over Sampling
 ![Pic 4](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Combination_1.png)     
@@ -37,10 +37,12 @@
 ![Pic 4](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Deliv_2_Report.png) 
 1. Balanced Accuracy: 0.5269102796100636
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-3. Recall: High/Low risk = .78/.58
+3. Recall: High/Low risk = 0.78/0.58
 
 ### Balanced Random Forest Classifier
-![Pic 5](.PNG)     
+![Pic 5](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/List_by_Priority_D3.png) 
+![Pic 5](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Confusion_Matrix_D3.pngsification_ReportD3.png) 
+![Pic 5](https://github.com/Tifarahani/Credit_Risk_Analysis/blob/main/Resources/img/Classification_ReportD3.png)     
 1. Balanced Accuracy: 0.7877672625306695
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk = .67/.91
